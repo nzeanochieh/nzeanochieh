@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nzeanochieh
-- 👀 I’m interested in web, javascript, mathematical programming,algorithms, javascript frameworks and more...
+- 👀 I’m interested in web2/web3 Development, Blockchain, DSA, algorithms, javascript/TypeScript frameworks and more...
 - 💞️ I’m looking to collaborate on different cool projects 
 - 📫 How to reach me on twitter: @Ebuka94
 
